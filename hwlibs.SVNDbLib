@@ -1,0 +1,2224 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\george\Documents\GitHub\hwlibs-svn-test\hwlibs.MDB;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=C:\Users\george\Documents\GitHub\hwlibs-svn-test\hwlibs.MDB
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=http://github.com/ashandore/hwlibs-svn-test/library;http://github.com/ashandore/hwlibs-svn-test/library
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+SVNRepositoryURL=http://github.com/ashandore/hwlibs-svn-test
+FileRepositoryIsRelative=0
+LastFocusedTable=030-7328_Schlib
+[Table1]
+SchemaName=
+TableName=030-7328_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table2]
+SchemaName=
+TableName=030-7337_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table3]
+SchemaName=
+TableName=16-Bit SDRAM_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table4]
+SchemaName=
+TableName=16-Bit TFBGA54 SDRAM_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table5]
+SchemaName=
+TableName=1SMB5956BT3_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table6]
+SchemaName=
+TableName=2P2Sxfmr_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table7]
+SchemaName=
+TableName=2x7SegmentDisplay_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table8]
+SchemaName=
+TableName=3009_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table9]
+SchemaName=
+TableName=3x7SegmentDisplay_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table10]
+SchemaName=
+TableName=440119-4_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table11]
+SchemaName=
+TableName=4x7SegmentDisplay_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table12]
+SchemaName=
+TableName=5mm LED_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table13]
+SchemaName=
+TableName=6N137_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table14]
+SchemaName=
+TableName=95009-2667_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table15]
+SchemaName=
+TableName=AC Power Holes_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table16]
+SchemaName=
+TableName=ACAS Quad Resistor Array_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table17]
+SchemaName=
+TableName=ACS712_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table18]
+SchemaName=
+TableName=AD597ARZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table19]
+SchemaName=
+TableName=AD7730BRUZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table20]
+SchemaName=
+TableName=AD7730BRZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table21]
+SchemaName=
+TableName=AD8495_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table22]
+SchemaName=
+TableName=ADP2300_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table23]
+SchemaName=
+TableName=ADR02AUJZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table24]
+SchemaName=
+TableName=ADS1147IPW_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table25]
+SchemaName=
+TableName=AP7313-33SAG-7_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table26]
+SchemaName=
+TableName=AT24MAC402_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table27]
+SchemaName=
+TableName=AT45DB081D-SSU-2_5_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table28]
+SchemaName=
+TableName=AT91SAM9RL74_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table29]
+SchemaName=
+TableName=Arduino Mini Pro_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table30]
+SchemaName=
+TableName=B3U-1000P_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table31]
+SchemaName=
+TableName=BD6221_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table32]
+SchemaName=
+TableName=BLE112_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table33]
+SchemaName=
+TableName=BLE113_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table34]
+SchemaName=
+TableName=BR1632_FAN_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table35]
+SchemaName=
+TableName=BSS84_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table36]
+SchemaName=
+TableName=BV020-5413_0_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table37]
+SchemaName=
+TableName=BV030-7294_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table38]
+SchemaName=
+TableName=Barrel Plug_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table39]
+SchemaName=
+TableName=Battery Clip_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table40]
+SchemaName=
+TableName=Bourns SDR0302 Inductor_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table41]
+SchemaName=
+TableName=C0201_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table42]
+SchemaName=
+TableName=CAPACITOR NON-POL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table43]
+SchemaName=
+TableName=CAPACITOR POL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table44]
+SchemaName=
+TableName=CAPACITOR_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table45]
+SchemaName=
+TableName=CAS-D20TB_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table46]
+SchemaName=
+TableName=CD4504_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table47]
+SchemaName=
+TableName=CD4511BPWR_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table48]
+SchemaName=
+TableName=CD4511_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table49]
+SchemaName=
+TableName=CFAG12864K_MODULE_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table50]
+SchemaName=
+TableName=CFAG12864K_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table51]
+SchemaName=
+TableName=CLV1A-FKB_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table52]
+SchemaName=
+TableName=CM200C_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table53]
+SchemaName=
+TableName=CRYSTAL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table54]
+SchemaName=
+TableName=CY7C1011DV33_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table55]
+SchemaName=
+TableName=CY7C65634_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table56]
+SchemaName=
+TableName=Cap2_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table57]
+SchemaName=
+TableName=Chassis Mount TRIAC_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table58]
+SchemaName=
+TableName=Common Mode Choke_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table59]
+SchemaName=
+TableName=Current_Sense_Transformer_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table60]
+SchemaName=
+TableName=DB3X317K0L_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table61]
+SchemaName=
+TableName=DC Power Jack PJ1-021_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table62]
+SchemaName=
+TableName=DF06S_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table63]
+SchemaName=
+TableName=DF08S_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table64]
+SchemaName=
+TableName=DIODE_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table65]
+SchemaName=
+TableName=Diode 1N4007_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table66]
+SchemaName=
+TableName=Display - 160x128 TFT Adafruit_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table67]
+SchemaName=
+TableName=ELF18N016_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table68]
+SchemaName=
+TableName=ES2D_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table69]
+SchemaName=
+TableName=EVE-GA1F1724B_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table70]
+SchemaName=
+TableName=EVE-JBBF2020B_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table71]
+SchemaName=
+TableName=Eswitch_Sexboard_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table72]
+SchemaName=
+TableName=FDG6322C_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table73]
+SchemaName=
+TableName=FS10-1200_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table74]
+SchemaName=
+TableName=FT232H_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table75]
+SchemaName=
+TableName=Ferrite Bead_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table76]
+SchemaName=
+TableName=Fuse_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table77]
+SchemaName=
+TableName=GS10B60KD_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table78]
+SchemaName=
+TableName=HCPL-181_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table79]
+SchemaName=
+TableName=HGTG12N60A4_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table80]
+SchemaName=
+TableName=Hall Effect Header_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table81]
+SchemaName=
+TableName=Heat Sink_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table82]
+SchemaName=
+TableName=INA125U_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table83]
+SchemaName=
+TableName=INA331_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table84]
+SchemaName=
+TableName=IRG4BC10UD_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table85]
+SchemaName=
+TableName=IRG4PC40FD_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table86]
+SchemaName=
+TableName=IRS2103_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table87]
+SchemaName=
+TableName=IS42S16160D-7BL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table88]
+SchemaName=
+TableName=IS42S16160D-7TL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table89]
+SchemaName=
+TableName=IS43R16160B-6TL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table90]
+SchemaName=
+TableName=JTAG Breakout_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table91]
+SchemaName=
+TableName=JTAG Header_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table92]
+SchemaName=
+TableName=KAJ01SGGT_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table93]
+SchemaName=
+TableName=LCD-S2X1C50TR_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table94]
+SchemaName=
+TableName=LDS-AD12RI_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table95]
+SchemaName=
+TableName=LM Logo_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table96]
+SchemaName=
+TableName=LM3480IM3-5_0_NOPB_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table97]
+SchemaName=
+TableName=LM3671_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table98]
+SchemaName=
+TableName=LM3840IMC-5_0_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table99]
+SchemaName=
+TableName=LM78L05ACM_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table100]
+SchemaName=
+TableName=LM78L05ACZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table101]
+SchemaName=
+TableName=LM78L15ACZ_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table102]
+SchemaName=
+TableName=LP2950CZ-3_3RA_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table103]
+SchemaName=
+TableName=LPC1549JBD48_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table104]
+SchemaName=
+TableName=LPC4330FBD144_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table105]
+SchemaName=
+TableName=LPC4330FET100_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table106]
+SchemaName=
+TableName=LPC4330FET180_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table107]
+SchemaName=
+TableName=LT1461DHS8-5_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table108]
+SchemaName=
+TableName=LT1569-7_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table109]
+SchemaName=
+TableName=LT1991_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table110]
+SchemaName=
+TableName=LTC2473_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table111]
+SchemaName=
+TableName=LTC6900_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table112]
+SchemaName=
+TableName=LTV817A_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table113]
+SchemaName=
+TableName=L_0402_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table114]
+SchemaName=
+TableName=LumexLCDDisplay_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table115]
+SchemaName=
+TableName=MAC4DHM_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table116]
+SchemaName=
+TableName=MAX1247BEE_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table117]
+SchemaName=
+TableName=MAX6190AESA+_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table118]
+SchemaName=
+TableName=MB1005_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table119]
+SchemaName=
+TableName=MB4S_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table120]
+SchemaName=
+TableName=MC-306_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table121]
+SchemaName=
+TableName=MCIMX233DAG4B_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table122]
+SchemaName=
+TableName=MCP3204-CI_SL_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table123]
+SchemaName=
+TableName=MCP3422A0-E_SN_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table124]
+SchemaName=
+TableName=MCP73831T-2ACI - LiPo charger_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table125]
+SchemaName=
+TableName=MCP7940N_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table126]
+SchemaName=
+TableName=MIC2287C_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table127]
+SchemaName=
+TableName=MIC5235_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table128]
+SchemaName=
+TableName=MID400_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table129]
+SchemaName=
+TableName=MM3Z2V4B_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table130]
+SchemaName=
+TableName=MMBT3904_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table131]
+SchemaName=
+TableName=MMBTA42LT1G_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table132]
+SchemaName=
+TableName=MMSZ5233BS_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table133]
+SchemaName=
+TableName=MMSZ5264BT1G_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table134]
+SchemaName=
+TableName=MOC3022S_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table135]
+SchemaName=
+TableName=MPL115A1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table136]
+SchemaName=
+TableName=MS5535C_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table137]
+SchemaName=
+TableName=MUSBC511_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table138]
+SchemaName=
+TableName=Mechanical Component_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table139]
+SchemaName=
+TableName=MiniUSB - ED90341CT-ND_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table140]
+SchemaName=
+TableName=Miniature_Test_Point_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table141]
+SchemaName=
+TableName=Murata Pulse Transformer_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table142]
+SchemaName=
+TableName=NAR105_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table143]
+SchemaName=
+TableName=NDK-8mmx4_5mm Crystal_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table144]
+SchemaName=
+TableName=NHD-0216KZW-AB5_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table145]
+SchemaName=
+TableName=NHD-3_12-25664UCB2_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table146]
+SchemaName=
+TableName=NX3225SA_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table147]
+SchemaName=
+TableName=OPL530_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table148]
+SchemaName=
+TableName=OS102011MS2QN1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table149]
+SchemaName=
+TableName=Opamp_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table150]
+SchemaName=
+TableName=P82B96TD_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table151]
+SchemaName=
+TableName=PAN1721_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table152]
+SchemaName=
+TableName=PB134012_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table153]
+SchemaName=
+TableName=PCA9515_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table154]
+SchemaName=
+TableName=PCA9527_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table155]
+SchemaName=
+TableName=PCA9554A_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table156]
+SchemaName=
+TableName=PCA9554_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table157]
+SchemaName=
+TableName=PCA9557_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table158]
+SchemaName=
+TableName=PCA9956A_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table159]
+SchemaName=
+TableName=PEC11-4120F-S0018_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table160]
+SchemaName=
+TableName=PIC12(L)F1822_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table161]
+SchemaName=
+TableName=PIC16(L)F1526_7_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table162]
+SchemaName=
+TableName=PIC16F1827_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table163]
+SchemaName=
+TableName=PIC16F720_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table164]
+SchemaName=
+TableName=PIC16F722A_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table165]
+SchemaName=
+TableName=PIC16LF1503_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table166]
+SchemaName=
+TableName=PIC16LF1507_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table167]
+SchemaName=
+TableName=PIC16LF722_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table168]
+SchemaName=
+TableName=PIC18F4553_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table169]
+SchemaName=
+TableName=PIC18F6722_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table170]
+SchemaName=
+TableName=PIC32MX795F512H_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table171]
+SchemaName=
+TableName=PINHEADER-1x1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table172]
+SchemaName=
+TableName=PINHEADER-2x1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table173]
+SchemaName=
+TableName=PINHEADER-3x1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table174]
+SchemaName=
+TableName=PINHEADER-4x1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table175]
+SchemaName=
+TableName=PINHEADER-4x2_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table176]
+SchemaName=
+TableName=PINHEADER-6x1_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table177]
+SchemaName=
+TableName=PL5_0-36-130B_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table178]
+SchemaName=
+TableName=PTS645 - Button_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table179]
+SchemaName=
+TableName=PressureSensor_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table180]
+SchemaName=
+TableName=RESISTOR_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table181]
+SchemaName=
+TableName=RT444012_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table182]
+SchemaName=
+TableName=Reed Switch_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table183]
+SchemaName=
+TableName=Resettable Fuse_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table184]
+SchemaName=
+TableName=S1JB-13-F_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table185]
+SchemaName=
+TableName=SAA1064_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table186]
+SchemaName=
+TableName=SC18IS602_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table187]
+SchemaName=
+TableName=SC4524D_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table188]
+SchemaName=
+TableName=SDT024TFT-TS_MODULE_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table189]
+SchemaName=
+TableName=SDT024TFT_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table190]
+SchemaName=
+TableName=SJ-2524_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table191]
+SchemaName=
+TableName=SJ1-42515TS_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table192]
+SchemaName=
+TableName=SK-14D01-G 6_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table193]
+SchemaName=
+TableName=SN74LV161APWR_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table194]
+SchemaName=
+TableName=SN74LVC1G125_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table195]
+SchemaName=
+TableName=SN74LVCG207_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table196]
+SchemaName=
+TableName=SP3003-02_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table197]
+SchemaName=
+TableName=STM32F215VG_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table198]
+SchemaName=
+TableName=STM32F217Z_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table199]
+SchemaName=
+TableName=Si501_2_3_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table200]
+SchemaName=
+TableName=Socket_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table201]
+SchemaName=
+TableName=TC7WH123FU_FK_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table202]
+SchemaName=
+TableName=TNY277GN_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table203]
+SchemaName=
+TableName=TNY280_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table204]
+SchemaName=
+TableName=TRIAC_0_pDboPackage_Copy_0000_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table205]
+SchemaName=
+TableName=Taiyo_3u3_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table206]
+SchemaName=
+TableName=UBA2032TS_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table207]
+SchemaName=
+TableName=US1K-13-F_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table208]
+SchemaName=
+TableName=VI-201_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table209]
+SchemaName=
+TableName=Varistor_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table210]
+SchemaName=
+TableName=W25Q32_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table211]
+SchemaName=
+TableName=WatertronTransformer_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table212]
+SchemaName=
+TableName=Watertron_BFC_100u_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table213]
+SchemaName=
+TableName=Watertron_BFC_10u_HV_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table214]
+SchemaName=
+TableName=Watertron_BFC_2200u_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table215]
+SchemaName=
+TableName=Watertron_BFC_22u_HV_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table216]
+SchemaName=
+TableName=Watertron_BFC_2_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table217]
+SchemaName=
+TableName=Watertron_BFC_470u_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table218]
+SchemaName=
+TableName=Y_Capacitor_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table219]
+SchemaName=
+TableName=microSD_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table220]
+SchemaName=
+TableName=snapcap_Schlib
+Enabled=True
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=030-7328_Schlib.Part Number|TableNameOnly=030-7328_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=030-7328_Schlib.Library Ref|TableNameOnly=030-7328_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=030-7337_Schlib.Part Number|TableNameOnly=030-7337_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=030-7337_Schlib.Library Ref|TableNameOnly=030-7337_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=16-Bit SDRAM_Schlib.Part Number|TableNameOnly=16-Bit SDRAM_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=16-Bit SDRAM_Schlib.Library Ref|TableNameOnly=16-Bit SDRAM_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=16-Bit TFBGA54 SDRAM_Schlib.Part Number|TableNameOnly=16-Bit TFBGA54 SDRAM_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=16-Bit TFBGA54 SDRAM_Schlib.Library Ref|TableNameOnly=16-Bit TFBGA54 SDRAM_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap9]
+Options=FieldName=1SMB5956BT3_Schlib.Part Number|TableNameOnly=1SMB5956BT3_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap10]
+Options=FieldName=1SMB5956BT3_Schlib.Library Ref|TableNameOnly=1SMB5956BT3_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap11]
+Options=FieldName=2P2Sxfmr_Schlib.Part Number|TableNameOnly=2P2Sxfmr_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap12]
+Options=FieldName=2P2Sxfmr_Schlib.Library Ref|TableNameOnly=2P2Sxfmr_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap13]
+Options=FieldName=2x7SegmentDisplay_Schlib.Part Number|TableNameOnly=2x7SegmentDisplay_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap14]
+Options=FieldName=2x7SegmentDisplay_Schlib.Library Ref|TableNameOnly=2x7SegmentDisplay_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap15]
+Options=FieldName=3009_Schlib.Part Number|TableNameOnly=3009_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap16]
+Options=FieldName=3009_Schlib.Library Ref|TableNameOnly=3009_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap17]
+Options=FieldName=3x7SegmentDisplay_Schlib.Part Number|TableNameOnly=3x7SegmentDisplay_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap18]
+Options=FieldName=3x7SegmentDisplay_Schlib.Library Ref|TableNameOnly=3x7SegmentDisplay_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap19]
+Options=FieldName=440119-4_Schlib.Part Number|TableNameOnly=440119-4_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap20]
+Options=FieldName=440119-4_Schlib.Library Ref|TableNameOnly=440119-4_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap21]
+Options=FieldName=4x7SegmentDisplay_Schlib.Part Number|TableNameOnly=4x7SegmentDisplay_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap22]
+Options=FieldName=4x7SegmentDisplay_Schlib.Library Ref|TableNameOnly=4x7SegmentDisplay_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap23]
+Options=FieldName=5mm LED_Schlib.Part Number|TableNameOnly=5mm LED_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap24]
+Options=FieldName=5mm LED_Schlib.Library Ref|TableNameOnly=5mm LED_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap25]
+Options=FieldName=6N137_Schlib.Part Number|TableNameOnly=6N137_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap26]
+Options=FieldName=6N137_Schlib.Library Ref|TableNameOnly=6N137_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap27]
+Options=FieldName=95009-2667_Schlib.Part Number|TableNameOnly=95009-2667_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap28]
+Options=FieldName=95009-2667_Schlib.Library Ref|TableNameOnly=95009-2667_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap29]
+Options=FieldName=AC Power Holes_Schlib.Part Number|TableNameOnly=AC Power Holes_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap30]
+Options=FieldName=AC Power Holes_Schlib.Library Ref|TableNameOnly=AC Power Holes_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap31]
+Options=FieldName=ACAS Quad Resistor Array_Schlib.Part Number|TableNameOnly=ACAS Quad Resistor Array_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap32]
+Options=FieldName=ACAS Quad Resistor Array_Schlib.Library Ref|TableNameOnly=ACAS Quad Resistor Array_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap33]
+Options=FieldName=ACS712_Schlib.Part Number|TableNameOnly=ACS712_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap34]
+Options=FieldName=ACS712_Schlib.Library Ref|TableNameOnly=ACS712_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap35]
+Options=FieldName=AD597ARZ_Schlib.Part Number|TableNameOnly=AD597ARZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap36]
+Options=FieldName=AD597ARZ_Schlib.Library Ref|TableNameOnly=AD597ARZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap37]
+Options=FieldName=AD7730BRUZ_Schlib.Part Number|TableNameOnly=AD7730BRUZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap38]
+Options=FieldName=AD7730BRUZ_Schlib.Library Ref|TableNameOnly=AD7730BRUZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap39]
+Options=FieldName=AD7730BRZ_Schlib.Part Number|TableNameOnly=AD7730BRZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap40]
+Options=FieldName=AD7730BRZ_Schlib.Library Ref|TableNameOnly=AD7730BRZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap41]
+Options=FieldName=AD8495_Schlib.Part Number|TableNameOnly=AD8495_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap42]
+Options=FieldName=AD8495_Schlib.Library Ref|TableNameOnly=AD8495_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap43]
+Options=FieldName=ADP2300_Schlib.Part Number|TableNameOnly=ADP2300_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap44]
+Options=FieldName=ADP2300_Schlib.Library Ref|TableNameOnly=ADP2300_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap45]
+Options=FieldName=ADR02AUJZ_Schlib.Part Number|TableNameOnly=ADR02AUJZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap46]
+Options=FieldName=ADR02AUJZ_Schlib.Library Ref|TableNameOnly=ADR02AUJZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap47]
+Options=FieldName=ADS1147IPW_Schlib.Part Number|TableNameOnly=ADS1147IPW_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap48]
+Options=FieldName=ADS1147IPW_Schlib.Library Ref|TableNameOnly=ADS1147IPW_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap49]
+Options=FieldName=AP7313-33SAG-7_Schlib.Part Number|TableNameOnly=AP7313-33SAG-7_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap50]
+Options=FieldName=AP7313-33SAG-7_Schlib.Library Ref|TableNameOnly=AP7313-33SAG-7_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap51]
+Options=FieldName=AT24MAC402_Schlib.Part Number|TableNameOnly=AT24MAC402_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap52]
+Options=FieldName=AT24MAC402_Schlib.Library Ref|TableNameOnly=AT24MAC402_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap53]
+Options=FieldName=AT45DB081D-SSU-2_5_Schlib.Part Number|TableNameOnly=AT45DB081D-SSU-2_5_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap54]
+Options=FieldName=AT45DB081D-SSU-2_5_Schlib.Library Ref|TableNameOnly=AT45DB081D-SSU-2_5_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap55]
+Options=FieldName=AT91SAM9RL74_Schlib.Part Number|TableNameOnly=AT91SAM9RL74_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap56]
+Options=FieldName=AT91SAM9RL74_Schlib.Library Ref|TableNameOnly=AT91SAM9RL74_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap57]
+Options=FieldName=Arduino Mini Pro_Schlib.Part Number|TableNameOnly=Arduino Mini Pro_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap58]
+Options=FieldName=Arduino Mini Pro_Schlib.Library Ref|TableNameOnly=Arduino Mini Pro_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap59]
+Options=FieldName=B3U-1000P_Schlib.Part Number|TableNameOnly=B3U-1000P_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap60]
+Options=FieldName=B3U-1000P_Schlib.Library Ref|TableNameOnly=B3U-1000P_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap61]
+Options=FieldName=BD6221_Schlib.Part Number|TableNameOnly=BD6221_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap62]
+Options=FieldName=BD6221_Schlib.Library Ref|TableNameOnly=BD6221_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap63]
+Options=FieldName=BLE112_Schlib.Part Number|TableNameOnly=BLE112_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap64]
+Options=FieldName=BLE112_Schlib.Library Ref|TableNameOnly=BLE112_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap65]
+Options=FieldName=BLE113_Schlib.Part Number|TableNameOnly=BLE113_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap66]
+Options=FieldName=BLE113_Schlib.Library Ref|TableNameOnly=BLE113_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap67]
+Options=FieldName=BR1632_FAN_Schlib.Part Number|TableNameOnly=BR1632_FAN_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap68]
+Options=FieldName=BR1632_FAN_Schlib.Library Ref|TableNameOnly=BR1632_FAN_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap69]
+Options=FieldName=BSS84_Schlib.Part Number|TableNameOnly=BSS84_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap70]
+Options=FieldName=BSS84_Schlib.Library Ref|TableNameOnly=BSS84_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap71]
+Options=FieldName=BV020-5413_0_Schlib.Part Number|TableNameOnly=BV020-5413_0_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap72]
+Options=FieldName=BV020-5413_0_Schlib.Library Ref|TableNameOnly=BV020-5413_0_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap73]
+Options=FieldName=BV030-7294_Schlib.Part Number|TableNameOnly=BV030-7294_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap74]
+Options=FieldName=BV030-7294_Schlib.Library Ref|TableNameOnly=BV030-7294_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap75]
+Options=FieldName=Barrel Plug_Schlib.Part Number|TableNameOnly=Barrel Plug_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap76]
+Options=FieldName=Barrel Plug_Schlib.Library Ref|TableNameOnly=Barrel Plug_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap77]
+Options=FieldName=Battery Clip_Schlib.Part Number|TableNameOnly=Battery Clip_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap78]
+Options=FieldName=Battery Clip_Schlib.Library Ref|TableNameOnly=Battery Clip_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap79]
+Options=FieldName=Bourns SDR0302 Inductor_Schlib.Part Number|TableNameOnly=Bourns SDR0302 Inductor_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap80]
+Options=FieldName=Bourns SDR0302 Inductor_Schlib.Library Ref|TableNameOnly=Bourns SDR0302 Inductor_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap81]
+Options=FieldName=C0201_Schlib.Part Number|TableNameOnly=C0201_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap82]
+Options=FieldName=C0201_Schlib.Library Ref|TableNameOnly=C0201_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap83]
+Options=FieldName=CAPACITOR NON-POL_Schlib.Part Number|TableNameOnly=CAPACITOR NON-POL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap84]
+Options=FieldName=CAPACITOR NON-POL_Schlib.Library Ref|TableNameOnly=CAPACITOR NON-POL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap85]
+Options=FieldName=CAPACITOR POL_Schlib.Part Number|TableNameOnly=CAPACITOR POL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap86]
+Options=FieldName=CAPACITOR POL_Schlib.Library Ref|TableNameOnly=CAPACITOR POL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap87]
+Options=FieldName=CAPACITOR_Schlib.Part Number|TableNameOnly=CAPACITOR_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap88]
+Options=FieldName=CAPACITOR_Schlib.Library Ref|TableNameOnly=CAPACITOR_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap89]
+Options=FieldName=CAS-D20TB_Schlib.Part Number|TableNameOnly=CAS-D20TB_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap90]
+Options=FieldName=CAS-D20TB_Schlib.Library Ref|TableNameOnly=CAS-D20TB_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap91]
+Options=FieldName=CD4504_Schlib.Part Number|TableNameOnly=CD4504_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap92]
+Options=FieldName=CD4504_Schlib.Library Ref|TableNameOnly=CD4504_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap93]
+Options=FieldName=CD4511BPWR_Schlib.Part Number|TableNameOnly=CD4511BPWR_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap94]
+Options=FieldName=CD4511BPWR_Schlib.Library Ref|TableNameOnly=CD4511BPWR_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap95]
+Options=FieldName=CD4511_Schlib.Part Number|TableNameOnly=CD4511_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap96]
+Options=FieldName=CD4511_Schlib.Library Ref|TableNameOnly=CD4511_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap97]
+Options=FieldName=CFAG12864K_MODULE_Schlib.Part Number|TableNameOnly=CFAG12864K_MODULE_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap98]
+Options=FieldName=CFAG12864K_MODULE_Schlib.Library Ref|TableNameOnly=CFAG12864K_MODULE_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap99]
+Options=FieldName=CFAG12864K_Schlib.Part Number|TableNameOnly=CFAG12864K_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap100]
+Options=FieldName=CFAG12864K_Schlib.Library Ref|TableNameOnly=CFAG12864K_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap101]
+Options=FieldName=CLV1A-FKB_Schlib.Part Number|TableNameOnly=CLV1A-FKB_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap102]
+Options=FieldName=CLV1A-FKB_Schlib.Library Ref|TableNameOnly=CLV1A-FKB_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap103]
+Options=FieldName=CM200C_Schlib.Part Number|TableNameOnly=CM200C_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap104]
+Options=FieldName=CM200C_Schlib.Library Ref|TableNameOnly=CM200C_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap105]
+Options=FieldName=CRYSTAL_Schlib.Part Number|TableNameOnly=CRYSTAL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap106]
+Options=FieldName=CRYSTAL_Schlib.Library Ref|TableNameOnly=CRYSTAL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap107]
+Options=FieldName=CY7C1011DV33_Schlib.Part Number|TableNameOnly=CY7C1011DV33_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap108]
+Options=FieldName=CY7C1011DV33_Schlib.Library Ref|TableNameOnly=CY7C1011DV33_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap109]
+Options=FieldName=CY7C65634_Schlib.Part Number|TableNameOnly=CY7C65634_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap110]
+Options=FieldName=CY7C65634_Schlib.Library Ref|TableNameOnly=CY7C65634_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap111]
+Options=FieldName=Cap2_Schlib.Part Number|TableNameOnly=Cap2_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap112]
+Options=FieldName=Cap2_Schlib.Library Ref|TableNameOnly=Cap2_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap113]
+Options=FieldName=Chassis Mount TRIAC_Schlib.Part Number|TableNameOnly=Chassis Mount TRIAC_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap114]
+Options=FieldName=Chassis Mount TRIAC_Schlib.Library Ref|TableNameOnly=Chassis Mount TRIAC_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap115]
+Options=FieldName=Common Mode Choke_Schlib.Part Number|TableNameOnly=Common Mode Choke_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap116]
+Options=FieldName=Common Mode Choke_Schlib.Library Ref|TableNameOnly=Common Mode Choke_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap117]
+Options=FieldName=Current_Sense_Transformer_Schlib.Part Number|TableNameOnly=Current_Sense_Transformer_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap118]
+Options=FieldName=Current_Sense_Transformer_Schlib.Library Ref|TableNameOnly=Current_Sense_Transformer_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap119]
+Options=FieldName=DB3X317K0L_Schlib.Part Number|TableNameOnly=DB3X317K0L_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap120]
+Options=FieldName=DB3X317K0L_Schlib.Library Ref|TableNameOnly=DB3X317K0L_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap121]
+Options=FieldName=DC Power Jack PJ1-021_Schlib.Part Number|TableNameOnly=DC Power Jack PJ1-021_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap122]
+Options=FieldName=DC Power Jack PJ1-021_Schlib.Library Ref|TableNameOnly=DC Power Jack PJ1-021_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap123]
+Options=FieldName=DF06S_Schlib.Part Number|TableNameOnly=DF06S_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap124]
+Options=FieldName=DF06S_Schlib.Library Ref|TableNameOnly=DF06S_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap125]
+Options=FieldName=DF08S_Schlib.Part Number|TableNameOnly=DF08S_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap126]
+Options=FieldName=DF08S_Schlib.Library Ref|TableNameOnly=DF08S_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap127]
+Options=FieldName=DIODE_Schlib.Part Number|TableNameOnly=DIODE_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap128]
+Options=FieldName=DIODE_Schlib.Library Ref|TableNameOnly=DIODE_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap129]
+Options=FieldName=Diode 1N4007_Schlib.Part Number|TableNameOnly=Diode 1N4007_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap130]
+Options=FieldName=Diode 1N4007_Schlib.Library Ref|TableNameOnly=Diode 1N4007_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap131]
+Options=FieldName=Display - 160x128 TFT Adafruit_Schlib.Part Number|TableNameOnly=Display - 160x128 TFT Adafruit_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap132]
+Options=FieldName=Display - 160x128 TFT Adafruit_Schlib.Library Ref|TableNameOnly=Display - 160x128 TFT Adafruit_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap133]
+Options=FieldName=ELF18N016_Schlib.Part Number|TableNameOnly=ELF18N016_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap134]
+Options=FieldName=ELF18N016_Schlib.Library Ref|TableNameOnly=ELF18N016_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap135]
+Options=FieldName=ES2D_Schlib.Part Number|TableNameOnly=ES2D_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap136]
+Options=FieldName=ES2D_Schlib.Library Ref|TableNameOnly=ES2D_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap137]
+Options=FieldName=EVE-GA1F1724B_Schlib.Part Number|TableNameOnly=EVE-GA1F1724B_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap138]
+Options=FieldName=EVE-GA1F1724B_Schlib.Library Ref|TableNameOnly=EVE-GA1F1724B_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap139]
+Options=FieldName=EVE-JBBF2020B_Schlib.Part Number|TableNameOnly=EVE-JBBF2020B_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap140]
+Options=FieldName=EVE-JBBF2020B_Schlib.Library Ref|TableNameOnly=EVE-JBBF2020B_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap141]
+Options=FieldName=Eswitch_Sexboard_Schlib.Part Number|TableNameOnly=Eswitch_Sexboard_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap142]
+Options=FieldName=Eswitch_Sexboard_Schlib.Library Ref|TableNameOnly=Eswitch_Sexboard_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap143]
+Options=FieldName=FDG6322C_Schlib.Part Number|TableNameOnly=FDG6322C_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap144]
+Options=FieldName=FDG6322C_Schlib.Library Ref|TableNameOnly=FDG6322C_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap145]
+Options=FieldName=FS10-1200_Schlib.Part Number|TableNameOnly=FS10-1200_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap146]
+Options=FieldName=FS10-1200_Schlib.Library Ref|TableNameOnly=FS10-1200_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap147]
+Options=FieldName=FT232H_Schlib.Part Number|TableNameOnly=FT232H_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap148]
+Options=FieldName=FT232H_Schlib.Library Ref|TableNameOnly=FT232H_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap149]
+Options=FieldName=Ferrite Bead_Schlib.Part Number|TableNameOnly=Ferrite Bead_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap150]
+Options=FieldName=Ferrite Bead_Schlib.Library Ref|TableNameOnly=Ferrite Bead_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap151]
+Options=FieldName=Fuse_Schlib.Part Number|TableNameOnly=Fuse_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap152]
+Options=FieldName=Fuse_Schlib.Library Ref|TableNameOnly=Fuse_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap153]
+Options=FieldName=GS10B60KD_Schlib.Part Number|TableNameOnly=GS10B60KD_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap154]
+Options=FieldName=GS10B60KD_Schlib.Library Ref|TableNameOnly=GS10B60KD_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap155]
+Options=FieldName=HCPL-181_Schlib.Part Number|TableNameOnly=HCPL-181_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap156]
+Options=FieldName=HCPL-181_Schlib.Library Ref|TableNameOnly=HCPL-181_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap157]
+Options=FieldName=HGTG12N60A4_Schlib.Part Number|TableNameOnly=HGTG12N60A4_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap158]
+Options=FieldName=HGTG12N60A4_Schlib.Library Ref|TableNameOnly=HGTG12N60A4_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap159]
+Options=FieldName=Hall Effect Header_Schlib.Part Number|TableNameOnly=Hall Effect Header_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap160]
+Options=FieldName=Hall Effect Header_Schlib.Library Ref|TableNameOnly=Hall Effect Header_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap161]
+Options=FieldName=Heat Sink_Schlib.Part Number|TableNameOnly=Heat Sink_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap162]
+Options=FieldName=Heat Sink_Schlib.Library Ref|TableNameOnly=Heat Sink_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap163]
+Options=FieldName=INA125U_Schlib.Part Number|TableNameOnly=INA125U_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap164]
+Options=FieldName=INA125U_Schlib.Library Ref|TableNameOnly=INA125U_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap165]
+Options=FieldName=INA331_Schlib.Part Number|TableNameOnly=INA331_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap166]
+Options=FieldName=INA331_Schlib.Library Ref|TableNameOnly=INA331_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap167]
+Options=FieldName=IRG4BC10UD_Schlib.Part Number|TableNameOnly=IRG4BC10UD_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap168]
+Options=FieldName=IRG4BC10UD_Schlib.Library Ref|TableNameOnly=IRG4BC10UD_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap169]
+Options=FieldName=IRG4PC40FD_Schlib.Part Number|TableNameOnly=IRG4PC40FD_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap170]
+Options=FieldName=IRG4PC40FD_Schlib.Library Ref|TableNameOnly=IRG4PC40FD_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap171]
+Options=FieldName=IRS2103_Schlib.Part Number|TableNameOnly=IRS2103_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap172]
+Options=FieldName=IRS2103_Schlib.Library Ref|TableNameOnly=IRS2103_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap173]
+Options=FieldName=IS42S16160D-7BL_Schlib.Part Number|TableNameOnly=IS42S16160D-7BL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap174]
+Options=FieldName=IS42S16160D-7BL_Schlib.Library Ref|TableNameOnly=IS42S16160D-7BL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap175]
+Options=FieldName=IS42S16160D-7TL_Schlib.Part Number|TableNameOnly=IS42S16160D-7TL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap176]
+Options=FieldName=IS42S16160D-7TL_Schlib.Library Ref|TableNameOnly=IS42S16160D-7TL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap177]
+Options=FieldName=IS43R16160B-6TL_Schlib.Part Number|TableNameOnly=IS43R16160B-6TL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap178]
+Options=FieldName=IS43R16160B-6TL_Schlib.Library Ref|TableNameOnly=IS43R16160B-6TL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap179]
+Options=FieldName=JTAG Breakout_Schlib.Part Number|TableNameOnly=JTAG Breakout_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap180]
+Options=FieldName=JTAG Breakout_Schlib.Library Ref|TableNameOnly=JTAG Breakout_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap181]
+Options=FieldName=JTAG Header_Schlib.Part Number|TableNameOnly=JTAG Header_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap182]
+Options=FieldName=JTAG Header_Schlib.Library Ref|TableNameOnly=JTAG Header_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap183]
+Options=FieldName=KAJ01SGGT_Schlib.Part Number|TableNameOnly=KAJ01SGGT_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap184]
+Options=FieldName=KAJ01SGGT_Schlib.Library Ref|TableNameOnly=KAJ01SGGT_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap185]
+Options=FieldName=LCD-S2X1C50TR_Schlib.Part Number|TableNameOnly=LCD-S2X1C50TR_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap186]
+Options=FieldName=LCD-S2X1C50TR_Schlib.Library Ref|TableNameOnly=LCD-S2X1C50TR_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap187]
+Options=FieldName=LDS-AD12RI_Schlib.Part Number|TableNameOnly=LDS-AD12RI_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap188]
+Options=FieldName=LDS-AD12RI_Schlib.Library Ref|TableNameOnly=LDS-AD12RI_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap189]
+Options=FieldName=LM Logo_Schlib.Part Number|TableNameOnly=LM Logo_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap190]
+Options=FieldName=LM Logo_Schlib.Library Ref|TableNameOnly=LM Logo_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap191]
+Options=FieldName=LM3480IM3-5_0_NOPB_Schlib.Part Number|TableNameOnly=LM3480IM3-5_0_NOPB_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap192]
+Options=FieldName=LM3480IM3-5_0_NOPB_Schlib.Library Ref|TableNameOnly=LM3480IM3-5_0_NOPB_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap193]
+Options=FieldName=LM3671_Schlib.Part Number|TableNameOnly=LM3671_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap194]
+Options=FieldName=LM3671_Schlib.Library Ref|TableNameOnly=LM3671_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap195]
+Options=FieldName=LM3840IMC-5_0_Schlib.Part Number|TableNameOnly=LM3840IMC-5_0_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap196]
+Options=FieldName=LM3840IMC-5_0_Schlib.Library Ref|TableNameOnly=LM3840IMC-5_0_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap197]
+Options=FieldName=LM78L05ACM_Schlib.Part Number|TableNameOnly=LM78L05ACM_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap198]
+Options=FieldName=LM78L05ACM_Schlib.Library Ref|TableNameOnly=LM78L05ACM_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap199]
+Options=FieldName=LM78L05ACZ_Schlib.Part Number|TableNameOnly=LM78L05ACZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap200]
+Options=FieldName=LM78L05ACZ_Schlib.Library Ref|TableNameOnly=LM78L05ACZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap201]
+Options=FieldName=LM78L15ACZ_Schlib.Part Number|TableNameOnly=LM78L15ACZ_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap202]
+Options=FieldName=LM78L15ACZ_Schlib.Library Ref|TableNameOnly=LM78L15ACZ_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap203]
+Options=FieldName=LP2950CZ-3_3RA_Schlib.Part Number|TableNameOnly=LP2950CZ-3_3RA_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap204]
+Options=FieldName=LP2950CZ-3_3RA_Schlib.Library Ref|TableNameOnly=LP2950CZ-3_3RA_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap205]
+Options=FieldName=LPC1549JBD48_Schlib.Part Number|TableNameOnly=LPC1549JBD48_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap206]
+Options=FieldName=LPC1549JBD48_Schlib.Library Ref|TableNameOnly=LPC1549JBD48_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap207]
+Options=FieldName=LPC4330FBD144_Schlib.Part Number|TableNameOnly=LPC4330FBD144_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap208]
+Options=FieldName=LPC4330FBD144_Schlib.Library Ref|TableNameOnly=LPC4330FBD144_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap209]
+Options=FieldName=LPC4330FET100_Schlib.Part Number|TableNameOnly=LPC4330FET100_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap210]
+Options=FieldName=LPC4330FET100_Schlib.Library Ref|TableNameOnly=LPC4330FET100_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap211]
+Options=FieldName=LPC4330FET180_Schlib.Part Number|TableNameOnly=LPC4330FET180_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap212]
+Options=FieldName=LPC4330FET180_Schlib.Library Ref|TableNameOnly=LPC4330FET180_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap213]
+Options=FieldName=LT1461DHS8-5_Schlib.Part Number|TableNameOnly=LT1461DHS8-5_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap214]
+Options=FieldName=LT1461DHS8-5_Schlib.Library Ref|TableNameOnly=LT1461DHS8-5_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap215]
+Options=FieldName=LT1569-7_Schlib.Part Number|TableNameOnly=LT1569-7_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap216]
+Options=FieldName=LT1569-7_Schlib.Library Ref|TableNameOnly=LT1569-7_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap217]
+Options=FieldName=LT1991_Schlib.Part Number|TableNameOnly=LT1991_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap218]
+Options=FieldName=LT1991_Schlib.Library Ref|TableNameOnly=LT1991_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap219]
+Options=FieldName=LTC2473_Schlib.Part Number|TableNameOnly=LTC2473_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap220]
+Options=FieldName=LTC2473_Schlib.Library Ref|TableNameOnly=LTC2473_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap221]
+Options=FieldName=LTC6900_Schlib.Part Number|TableNameOnly=LTC6900_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap222]
+Options=FieldName=LTC6900_Schlib.Library Ref|TableNameOnly=LTC6900_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap223]
+Options=FieldName=LTV817A_Schlib.Part Number|TableNameOnly=LTV817A_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap224]
+Options=FieldName=LTV817A_Schlib.Library Ref|TableNameOnly=LTV817A_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap225]
+Options=FieldName=L_0402_Schlib.Part Number|TableNameOnly=L_0402_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap226]
+Options=FieldName=L_0402_Schlib.Library Ref|TableNameOnly=L_0402_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap227]
+Options=FieldName=LumexLCDDisplay_Schlib.Part Number|TableNameOnly=LumexLCDDisplay_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap228]
+Options=FieldName=LumexLCDDisplay_Schlib.Library Ref|TableNameOnly=LumexLCDDisplay_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap229]
+Options=FieldName=MAC4DHM_Schlib.Part Number|TableNameOnly=MAC4DHM_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap230]
+Options=FieldName=MAC4DHM_Schlib.Library Ref|TableNameOnly=MAC4DHM_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap231]
+Options=FieldName=MAX1247BEE_Schlib.Part Number|TableNameOnly=MAX1247BEE_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap232]
+Options=FieldName=MAX1247BEE_Schlib.Library Ref|TableNameOnly=MAX1247BEE_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap233]
+Options=FieldName=MAX6190AESA+_Schlib.Part Number|TableNameOnly=MAX6190AESA+_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap234]
+Options=FieldName=MAX6190AESA+_Schlib.Library Ref|TableNameOnly=MAX6190AESA+_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap235]
+Options=FieldName=MB1005_Schlib.Part Number|TableNameOnly=MB1005_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap236]
+Options=FieldName=MB1005_Schlib.Library Ref|TableNameOnly=MB1005_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap237]
+Options=FieldName=MB4S_Schlib.Part Number|TableNameOnly=MB4S_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap238]
+Options=FieldName=MB4S_Schlib.Library Ref|TableNameOnly=MB4S_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap239]
+Options=FieldName=MC-306_Schlib.Part Number|TableNameOnly=MC-306_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap240]
+Options=FieldName=MC-306_Schlib.Library Ref|TableNameOnly=MC-306_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap241]
+Options=FieldName=MCIMX233DAG4B_Schlib.Part Number|TableNameOnly=MCIMX233DAG4B_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap242]
+Options=FieldName=MCIMX233DAG4B_Schlib.Library Ref|TableNameOnly=MCIMX233DAG4B_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap243]
+Options=FieldName=MCP3204-CI_SL_Schlib.Part Number|TableNameOnly=MCP3204-CI_SL_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap244]
+Options=FieldName=MCP3204-CI_SL_Schlib.Library Ref|TableNameOnly=MCP3204-CI_SL_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap245]
+Options=FieldName=MCP3422A0-E_SN_Schlib.Part Number|TableNameOnly=MCP3422A0-E_SN_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap246]
+Options=FieldName=MCP3422A0-E_SN_Schlib.Library Ref|TableNameOnly=MCP3422A0-E_SN_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap247]
+Options=FieldName=MCP73831T-2ACI - LiPo charger_Schlib.Part Number|TableNameOnly=MCP73831T-2ACI - LiPo charger_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap248]
+Options=FieldName=MCP73831T-2ACI - LiPo charger_Schlib.Library Ref|TableNameOnly=MCP73831T-2ACI - LiPo charger_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap249]
+Options=FieldName=MCP7940N_Schlib.Part Number|TableNameOnly=MCP7940N_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap250]
+Options=FieldName=MCP7940N_Schlib.Library Ref|TableNameOnly=MCP7940N_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap251]
+Options=FieldName=MIC2287C_Schlib.Part Number|TableNameOnly=MIC2287C_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap252]
+Options=FieldName=MIC2287C_Schlib.Library Ref|TableNameOnly=MIC2287C_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap253]
+Options=FieldName=MIC5235_Schlib.Part Number|TableNameOnly=MIC5235_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap254]
+Options=FieldName=MIC5235_Schlib.Library Ref|TableNameOnly=MIC5235_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap255]
+Options=FieldName=MID400_Schlib.Part Number|TableNameOnly=MID400_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap256]
+Options=FieldName=MID400_Schlib.Library Ref|TableNameOnly=MID400_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap257]
+Options=FieldName=MM3Z2V4B_Schlib.Part Number|TableNameOnly=MM3Z2V4B_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap258]
+Options=FieldName=MM3Z2V4B_Schlib.Library Ref|TableNameOnly=MM3Z2V4B_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap259]
+Options=FieldName=MMBT3904_Schlib.Part Number|TableNameOnly=MMBT3904_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap260]
+Options=FieldName=MMBT3904_Schlib.Library Ref|TableNameOnly=MMBT3904_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap261]
+Options=FieldName=MMBTA42LT1G_Schlib.Part Number|TableNameOnly=MMBTA42LT1G_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap262]
+Options=FieldName=MMBTA42LT1G_Schlib.Library Ref|TableNameOnly=MMBTA42LT1G_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap263]
+Options=FieldName=MMSZ5233BS_Schlib.Part Number|TableNameOnly=MMSZ5233BS_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap264]
+Options=FieldName=MMSZ5233BS_Schlib.Library Ref|TableNameOnly=MMSZ5233BS_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap265]
+Options=FieldName=MMSZ5264BT1G_Schlib.Part Number|TableNameOnly=MMSZ5264BT1G_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap266]
+Options=FieldName=MMSZ5264BT1G_Schlib.Library Ref|TableNameOnly=MMSZ5264BT1G_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap267]
+Options=FieldName=MOC3022S_Schlib.Part Number|TableNameOnly=MOC3022S_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap268]
+Options=FieldName=MOC3022S_Schlib.Library Ref|TableNameOnly=MOC3022S_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap269]
+Options=FieldName=MPL115A1_Schlib.Part Number|TableNameOnly=MPL115A1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap270]
+Options=FieldName=MPL115A1_Schlib.Library Ref|TableNameOnly=MPL115A1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap271]
+Options=FieldName=MS5535C_Schlib.Part Number|TableNameOnly=MS5535C_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap272]
+Options=FieldName=MS5535C_Schlib.Library Ref|TableNameOnly=MS5535C_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap273]
+Options=FieldName=MUSBC511_Schlib.Part Number|TableNameOnly=MUSBC511_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap274]
+Options=FieldName=MUSBC511_Schlib.Library Ref|TableNameOnly=MUSBC511_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap275]
+Options=FieldName=Mechanical Component_Schlib.Part Number|TableNameOnly=Mechanical Component_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap276]
+Options=FieldName=Mechanical Component_Schlib.Library Ref|TableNameOnly=Mechanical Component_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap277]
+Options=FieldName=MiniUSB - ED90341CT-ND_Schlib.Part Number|TableNameOnly=MiniUSB - ED90341CT-ND_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap278]
+Options=FieldName=MiniUSB - ED90341CT-ND_Schlib.Library Ref|TableNameOnly=MiniUSB - ED90341CT-ND_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap279]
+Options=FieldName=Miniature_Test_Point_Schlib.Part Number|TableNameOnly=Miniature_Test_Point_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap280]
+Options=FieldName=Miniature_Test_Point_Schlib.Library Ref|TableNameOnly=Miniature_Test_Point_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap281]
+Options=FieldName=Murata Pulse Transformer_Schlib.Part Number|TableNameOnly=Murata Pulse Transformer_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap282]
+Options=FieldName=Murata Pulse Transformer_Schlib.Library Ref|TableNameOnly=Murata Pulse Transformer_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap283]
+Options=FieldName=NAR105_Schlib.Part Number|TableNameOnly=NAR105_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap284]
+Options=FieldName=NAR105_Schlib.Library Ref|TableNameOnly=NAR105_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap285]
+Options=FieldName=NDK-8mmx4_5mm Crystal_Schlib.Part Number|TableNameOnly=NDK-8mmx4_5mm Crystal_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap286]
+Options=FieldName=NDK-8mmx4_5mm Crystal_Schlib.Library Ref|TableNameOnly=NDK-8mmx4_5mm Crystal_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap287]
+Options=FieldName=NHD-0216KZW-AB5_Schlib.Part Number|TableNameOnly=NHD-0216KZW-AB5_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap288]
+Options=FieldName=NHD-0216KZW-AB5_Schlib.Library Ref|TableNameOnly=NHD-0216KZW-AB5_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap289]
+Options=FieldName=NHD-3_12-25664UCB2_Schlib.Part Number|TableNameOnly=NHD-3_12-25664UCB2_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap290]
+Options=FieldName=NHD-3_12-25664UCB2_Schlib.Library Ref|TableNameOnly=NHD-3_12-25664UCB2_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap291]
+Options=FieldName=NX3225SA_Schlib.Part Number|TableNameOnly=NX3225SA_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap292]
+Options=FieldName=NX3225SA_Schlib.Library Ref|TableNameOnly=NX3225SA_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap293]
+Options=FieldName=OPL530_Schlib.Part Number|TableNameOnly=OPL530_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap294]
+Options=FieldName=OPL530_Schlib.Library Ref|TableNameOnly=OPL530_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap295]
+Options=FieldName=OS102011MS2QN1_Schlib.Part Number|TableNameOnly=OS102011MS2QN1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap296]
+Options=FieldName=OS102011MS2QN1_Schlib.Library Ref|TableNameOnly=OS102011MS2QN1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap297]
+Options=FieldName=Opamp_Schlib.Part Number|TableNameOnly=Opamp_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap298]
+Options=FieldName=Opamp_Schlib.Library Ref|TableNameOnly=Opamp_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap299]
+Options=FieldName=P82B96TD_Schlib.Part Number|TableNameOnly=P82B96TD_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap300]
+Options=FieldName=P82B96TD_Schlib.Library Ref|TableNameOnly=P82B96TD_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap301]
+Options=FieldName=PAN1721_Schlib.Part Number|TableNameOnly=PAN1721_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap302]
+Options=FieldName=PAN1721_Schlib.Library Ref|TableNameOnly=PAN1721_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap303]
+Options=FieldName=PB134012_Schlib.Part Number|TableNameOnly=PB134012_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap304]
+Options=FieldName=PB134012_Schlib.Library Ref|TableNameOnly=PB134012_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap305]
+Options=FieldName=PCA9515_Schlib.Part Number|TableNameOnly=PCA9515_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap306]
+Options=FieldName=PCA9515_Schlib.Library Ref|TableNameOnly=PCA9515_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap307]
+Options=FieldName=PCA9527_Schlib.Part Number|TableNameOnly=PCA9527_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap308]
+Options=FieldName=PCA9527_Schlib.Library Ref|TableNameOnly=PCA9527_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap309]
+Options=FieldName=PCA9554A_Schlib.Part Number|TableNameOnly=PCA9554A_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap310]
+Options=FieldName=PCA9554A_Schlib.Library Ref|TableNameOnly=PCA9554A_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap311]
+Options=FieldName=PCA9554_Schlib.Part Number|TableNameOnly=PCA9554_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap312]
+Options=FieldName=PCA9554_Schlib.Library Ref|TableNameOnly=PCA9554_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap313]
+Options=FieldName=PCA9557_Schlib.Part Number|TableNameOnly=PCA9557_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap314]
+Options=FieldName=PCA9557_Schlib.Library Ref|TableNameOnly=PCA9557_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap315]
+Options=FieldName=PCA9956A_Schlib.Part Number|TableNameOnly=PCA9956A_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap316]
+Options=FieldName=PCA9956A_Schlib.Library Ref|TableNameOnly=PCA9956A_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap317]
+Options=FieldName=PEC11-4120F-S0018_Schlib.Part Number|TableNameOnly=PEC11-4120F-S0018_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap318]
+Options=FieldName=PEC11-4120F-S0018_Schlib.Library Ref|TableNameOnly=PEC11-4120F-S0018_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap319]
+Options=FieldName=PIC12(L)F1822_Schlib.Part Number|TableNameOnly=PIC12(L)F1822_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap320]
+Options=FieldName=PIC12(L)F1822_Schlib.Library Ref|TableNameOnly=PIC12(L)F1822_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap321]
+Options=FieldName=PIC16(L)F1526_7_Schlib.Part Number|TableNameOnly=PIC16(L)F1526_7_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap322]
+Options=FieldName=PIC16(L)F1526_7_Schlib.Library Ref|TableNameOnly=PIC16(L)F1526_7_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap323]
+Options=FieldName=PIC16F1827_Schlib.Part Number|TableNameOnly=PIC16F1827_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap324]
+Options=FieldName=PIC16F1827_Schlib.Library Ref|TableNameOnly=PIC16F1827_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap325]
+Options=FieldName=PIC16F720_Schlib.Part Number|TableNameOnly=PIC16F720_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap326]
+Options=FieldName=PIC16F720_Schlib.Library Ref|TableNameOnly=PIC16F720_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap327]
+Options=FieldName=PIC16F722A_Schlib.Part Number|TableNameOnly=PIC16F722A_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap328]
+Options=FieldName=PIC16F722A_Schlib.Library Ref|TableNameOnly=PIC16F722A_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap329]
+Options=FieldName=PIC16LF1503_Schlib.Part Number|TableNameOnly=PIC16LF1503_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap330]
+Options=FieldName=PIC16LF1503_Schlib.Library Ref|TableNameOnly=PIC16LF1503_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap331]
+Options=FieldName=PIC16LF1507_Schlib.Part Number|TableNameOnly=PIC16LF1507_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap332]
+Options=FieldName=PIC16LF1507_Schlib.Library Ref|TableNameOnly=PIC16LF1507_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap333]
+Options=FieldName=PIC16LF722_Schlib.Part Number|TableNameOnly=PIC16LF722_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap334]
+Options=FieldName=PIC16LF722_Schlib.Library Ref|TableNameOnly=PIC16LF722_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap335]
+Options=FieldName=PIC18F4553_Schlib.Part Number|TableNameOnly=PIC18F4553_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap336]
+Options=FieldName=PIC18F4553_Schlib.Library Ref|TableNameOnly=PIC18F4553_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap337]
+Options=FieldName=PIC18F6722_Schlib.Part Number|TableNameOnly=PIC18F6722_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap338]
+Options=FieldName=PIC18F6722_Schlib.Library Ref|TableNameOnly=PIC18F6722_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap339]
+Options=FieldName=PIC32MX795F512H_Schlib.Part Number|TableNameOnly=PIC32MX795F512H_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap340]
+Options=FieldName=PIC32MX795F512H_Schlib.Library Ref|TableNameOnly=PIC32MX795F512H_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap341]
+Options=FieldName=PINHEADER-1x1_Schlib.Part Number|TableNameOnly=PINHEADER-1x1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap342]
+Options=FieldName=PINHEADER-1x1_Schlib.Library Ref|TableNameOnly=PINHEADER-1x1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap343]
+Options=FieldName=PINHEADER-2x1_Schlib.Part Number|TableNameOnly=PINHEADER-2x1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap344]
+Options=FieldName=PINHEADER-2x1_Schlib.Library Ref|TableNameOnly=PINHEADER-2x1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap345]
+Options=FieldName=PINHEADER-3x1_Schlib.Part Number|TableNameOnly=PINHEADER-3x1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap346]
+Options=FieldName=PINHEADER-3x1_Schlib.Library Ref|TableNameOnly=PINHEADER-3x1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap347]
+Options=FieldName=PINHEADER-4x1_Schlib.Part Number|TableNameOnly=PINHEADER-4x1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap348]
+Options=FieldName=PINHEADER-4x1_Schlib.Library Ref|TableNameOnly=PINHEADER-4x1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap349]
+Options=FieldName=PINHEADER-4x2_Schlib.Part Number|TableNameOnly=PINHEADER-4x2_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap350]
+Options=FieldName=PINHEADER-4x2_Schlib.Library Ref|TableNameOnly=PINHEADER-4x2_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap351]
+Options=FieldName=PINHEADER-6x1_Schlib.Part Number|TableNameOnly=PINHEADER-6x1_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap352]
+Options=FieldName=PINHEADER-6x1_Schlib.Library Ref|TableNameOnly=PINHEADER-6x1_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap353]
+Options=FieldName=PL5_0-36-130B_Schlib.Part Number|TableNameOnly=PL5_0-36-130B_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap354]
+Options=FieldName=PL5_0-36-130B_Schlib.Library Ref|TableNameOnly=PL5_0-36-130B_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap355]
+Options=FieldName=PTS645 - Button_Schlib.Part Number|TableNameOnly=PTS645 - Button_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap356]
+Options=FieldName=PTS645 - Button_Schlib.Library Ref|TableNameOnly=PTS645 - Button_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap357]
+Options=FieldName=PressureSensor_Schlib.Part Number|TableNameOnly=PressureSensor_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap358]
+Options=FieldName=PressureSensor_Schlib.Library Ref|TableNameOnly=PressureSensor_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap359]
+Options=FieldName=RESISTOR_Schlib.Part Number|TableNameOnly=RESISTOR_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap360]
+Options=FieldName=RESISTOR_Schlib.Library Ref|TableNameOnly=RESISTOR_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap361]
+Options=FieldName=RT444012_Schlib.Part Number|TableNameOnly=RT444012_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap362]
+Options=FieldName=RT444012_Schlib.Library Ref|TableNameOnly=RT444012_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap363]
+Options=FieldName=Reed Switch_Schlib.Part Number|TableNameOnly=Reed Switch_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap364]
+Options=FieldName=Reed Switch_Schlib.Library Ref|TableNameOnly=Reed Switch_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap365]
+Options=FieldName=Resettable Fuse_Schlib.Part Number|TableNameOnly=Resettable Fuse_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap366]
+Options=FieldName=Resettable Fuse_Schlib.Library Ref|TableNameOnly=Resettable Fuse_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap367]
+Options=FieldName=S1JB-13-F_Schlib.Part Number|TableNameOnly=S1JB-13-F_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap368]
+Options=FieldName=S1JB-13-F_Schlib.Library Ref|TableNameOnly=S1JB-13-F_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap369]
+Options=FieldName=SAA1064_Schlib.Part Number|TableNameOnly=SAA1064_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap370]
+Options=FieldName=SAA1064_Schlib.Library Ref|TableNameOnly=SAA1064_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap371]
+Options=FieldName=SC18IS602_Schlib.Part Number|TableNameOnly=SC18IS602_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap372]
+Options=FieldName=SC18IS602_Schlib.Library Ref|TableNameOnly=SC18IS602_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap373]
+Options=FieldName=SC4524D_Schlib.Part Number|TableNameOnly=SC4524D_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap374]
+Options=FieldName=SC4524D_Schlib.Library Ref|TableNameOnly=SC4524D_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap375]
+Options=FieldName=SDT024TFT-TS_MODULE_Schlib.Part Number|TableNameOnly=SDT024TFT-TS_MODULE_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap376]
+Options=FieldName=SDT024TFT-TS_MODULE_Schlib.Library Ref|TableNameOnly=SDT024TFT-TS_MODULE_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap377]
+Options=FieldName=SDT024TFT_Schlib.Part Number|TableNameOnly=SDT024TFT_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap378]
+Options=FieldName=SDT024TFT_Schlib.Library Ref|TableNameOnly=SDT024TFT_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap379]
+Options=FieldName=SJ-2524_Schlib.Part Number|TableNameOnly=SJ-2524_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap380]
+Options=FieldName=SJ-2524_Schlib.Library Ref|TableNameOnly=SJ-2524_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap381]
+Options=FieldName=SJ1-42515TS_Schlib.Part Number|TableNameOnly=SJ1-42515TS_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap382]
+Options=FieldName=SJ1-42515TS_Schlib.Library Ref|TableNameOnly=SJ1-42515TS_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap383]
+Options=FieldName=SK-14D01-G 6_Schlib.Part Number|TableNameOnly=SK-14D01-G 6_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap384]
+Options=FieldName=SK-14D01-G 6_Schlib.Library Ref|TableNameOnly=SK-14D01-G 6_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap385]
+Options=FieldName=SN74LV161APWR_Schlib.Part Number|TableNameOnly=SN74LV161APWR_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap386]
+Options=FieldName=SN74LV161APWR_Schlib.Library Ref|TableNameOnly=SN74LV161APWR_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap387]
+Options=FieldName=SN74LVC1G125_Schlib.Part Number|TableNameOnly=SN74LVC1G125_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap388]
+Options=FieldName=SN74LVC1G125_Schlib.Library Ref|TableNameOnly=SN74LVC1G125_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap389]
+Options=FieldName=SN74LVCG207_Schlib.Part Number|TableNameOnly=SN74LVCG207_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap390]
+Options=FieldName=SN74LVCG207_Schlib.Library Ref|TableNameOnly=SN74LVCG207_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap391]
+Options=FieldName=SP3003-02_Schlib.Part Number|TableNameOnly=SP3003-02_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap392]
+Options=FieldName=SP3003-02_Schlib.Library Ref|TableNameOnly=SP3003-02_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap393]
+Options=FieldName=STM32F215VG_Schlib.Part Number|TableNameOnly=STM32F215VG_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap394]
+Options=FieldName=STM32F215VG_Schlib.Library Ref|TableNameOnly=STM32F215VG_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap395]
+Options=FieldName=STM32F217Z_Schlib.Part Number|TableNameOnly=STM32F217Z_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap396]
+Options=FieldName=STM32F217Z_Schlib.Library Ref|TableNameOnly=STM32F217Z_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap397]
+Options=FieldName=Si501_2_3_Schlib.Part Number|TableNameOnly=Si501_2_3_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap398]
+Options=FieldName=Si501_2_3_Schlib.Library Ref|TableNameOnly=Si501_2_3_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap399]
+Options=FieldName=Socket_Schlib.Part Number|TableNameOnly=Socket_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap400]
+Options=FieldName=Socket_Schlib.Library Ref|TableNameOnly=Socket_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap401]
+Options=FieldName=TC7WH123FU_FK_Schlib.Part Number|TableNameOnly=TC7WH123FU_FK_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap402]
+Options=FieldName=TC7WH123FU_FK_Schlib.Library Ref|TableNameOnly=TC7WH123FU_FK_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap403]
+Options=FieldName=TNY277GN_Schlib.Part Number|TableNameOnly=TNY277GN_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap404]
+Options=FieldName=TNY277GN_Schlib.Library Ref|TableNameOnly=TNY277GN_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap405]
+Options=FieldName=TNY280_Schlib.Part Number|TableNameOnly=TNY280_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap406]
+Options=FieldName=TNY280_Schlib.Library Ref|TableNameOnly=TNY280_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap407]
+Options=FieldName=TRIAC_0_pDboPackage_Copy_0000_Schlib.Part Number|TableNameOnly=TRIAC_0_pDboPackage_Copy_0000_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap408]
+Options=FieldName=TRIAC_0_pDboPackage_Copy_0000_Schlib.Library Ref|TableNameOnly=TRIAC_0_pDboPackage_Copy_0000_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap409]
+Options=FieldName=Taiyo_3u3_Schlib.Part Number|TableNameOnly=Taiyo_3u3_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap410]
+Options=FieldName=Taiyo_3u3_Schlib.Library Ref|TableNameOnly=Taiyo_3u3_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap411]
+Options=FieldName=UBA2032TS_Schlib.Part Number|TableNameOnly=UBA2032TS_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap412]
+Options=FieldName=UBA2032TS_Schlib.Library Ref|TableNameOnly=UBA2032TS_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap413]
+Options=FieldName=US1K-13-F_Schlib.Part Number|TableNameOnly=US1K-13-F_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap414]
+Options=FieldName=US1K-13-F_Schlib.Library Ref|TableNameOnly=US1K-13-F_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap415]
+Options=FieldName=VI-201_Schlib.Part Number|TableNameOnly=VI-201_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap416]
+Options=FieldName=VI-201_Schlib.Library Ref|TableNameOnly=VI-201_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap417]
+Options=FieldName=Varistor_Schlib.Part Number|TableNameOnly=Varistor_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap418]
+Options=FieldName=Varistor_Schlib.Library Ref|TableNameOnly=Varistor_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap419]
+Options=FieldName=W25Q32_Schlib.Part Number|TableNameOnly=W25Q32_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap420]
+Options=FieldName=W25Q32_Schlib.Library Ref|TableNameOnly=W25Q32_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap421]
+Options=FieldName=WatertronTransformer_Schlib.Part Number|TableNameOnly=WatertronTransformer_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap422]
+Options=FieldName=WatertronTransformer_Schlib.Library Ref|TableNameOnly=WatertronTransformer_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap423]
+Options=FieldName=Watertron_BFC_100u_Schlib.Part Number|TableNameOnly=Watertron_BFC_100u_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap424]
+Options=FieldName=Watertron_BFC_100u_Schlib.Library Ref|TableNameOnly=Watertron_BFC_100u_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap425]
+Options=FieldName=Watertron_BFC_10u_HV_Schlib.Part Number|TableNameOnly=Watertron_BFC_10u_HV_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap426]
+Options=FieldName=Watertron_BFC_10u_HV_Schlib.Library Ref|TableNameOnly=Watertron_BFC_10u_HV_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap427]
+Options=FieldName=Watertron_BFC_2200u_Schlib.Part Number|TableNameOnly=Watertron_BFC_2200u_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap428]
+Options=FieldName=Watertron_BFC_2200u_Schlib.Library Ref|TableNameOnly=Watertron_BFC_2200u_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap429]
+Options=FieldName=Watertron_BFC_22u_HV_Schlib.Part Number|TableNameOnly=Watertron_BFC_22u_HV_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap430]
+Options=FieldName=Watertron_BFC_22u_HV_Schlib.Library Ref|TableNameOnly=Watertron_BFC_22u_HV_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap431]
+Options=FieldName=Watertron_BFC_2_Schlib.Part Number|TableNameOnly=Watertron_BFC_2_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap432]
+Options=FieldName=Watertron_BFC_2_Schlib.Library Ref|TableNameOnly=Watertron_BFC_2_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap433]
+Options=FieldName=Watertron_BFC_470u_Schlib.Part Number|TableNameOnly=Watertron_BFC_470u_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap434]
+Options=FieldName=Watertron_BFC_470u_Schlib.Library Ref|TableNameOnly=Watertron_BFC_470u_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap435]
+Options=FieldName=Y_Capacitor_Schlib.Part Number|TableNameOnly=Y_Capacitor_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap436]
+Options=FieldName=Y_Capacitor_Schlib.Library Ref|TableNameOnly=Y_Capacitor_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap437]
+Options=FieldName=microSD_Schlib.Part Number|TableNameOnly=microSD_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap438]
+Options=FieldName=microSD_Schlib.Library Ref|TableNameOnly=microSD_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap439]
+Options=FieldName=snapcap_Schlib.Part Number|TableNameOnly=snapcap_Schlib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap440]
+Options=FieldName=snapcap_Schlib.Library Ref|TableNameOnly=snapcap_Schlib|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
